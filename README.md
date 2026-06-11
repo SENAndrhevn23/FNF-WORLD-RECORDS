@@ -74,6 +74,26 @@ A community-maintained archive documenting some of the biggest, smallest, longes
 | Longest Confirmed Mod Lifespan | Hololive Funkin' |
 
 ---
+## 🖥️ Highest RAM Usage Record
+
+The following records document the highest known memory (RAM) usage achieved while running Friday Night Funkin' mods, charts, or engine stress tests.
+
+| Rank | RAM Usage | Holder | Proof |
+|:---:|:---------:|---------|--------|
+| 🥇 1 | **282.7 GB** | **Haxepixel** | 📷 Picture |
+| 🥈 2 | **154.2 GB** | **RTS.EXEX** | 📷 Picture |
+| 🥉 3 | **81.82 GB** | **HRK.EXEX** | 🎥 Video + 📷 Picture |
+| 4 | **77.78 GB** | **Haxepixel** | 🎥 Video |
+| 5 | **59.98 GB** | **Haxepixel** | 🎥 Video |
+| 6 | **52.02 GB** | **WTDNB** | 🎥 Video |
+| 7 | **50.19 GB** | **RTS.EXEX** | 🎥 Video |
+| 8 | **48.53 GB** | **Lost_AM** | 🎥 Video |
+| 9 | **46.25 GB** | **Haxepixel** | 🎥 Video |
+| 10 | **39.70 GB** | **ANJ** | 📷 Picture |
+
+> **Note:** These values are community-submitted records and are intended to document the limits of FNF engines and chart stress tests. Proof is listed where available and may consist of screenshots or video recordings.
+
+---
 
 # ❓ Missing Achievements
 
