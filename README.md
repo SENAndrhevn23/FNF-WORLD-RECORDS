@@ -89,7 +89,7 @@ The following records document the highest known memory (RAM) usage achieved whi
 | 7 | **50.19 GB** | **RTS.EXEX** | 🎥 Video |
 | 8 | **48.53 GB** | **Lost_AM** | 🎥 Video |
 | 9 | **46.25 GB** | **Haxepixel** | 🎥 Video |
-| 10 | **39.70 GB** | **AndreJr** | 📷 Picture |
+| 10 | **39.70 GB** | **AndreNicholasJr** | 📷 Picture |
 
 > **Note:** These values are community-submitted records and are intended to document the limits of FNF engines and chart stress tests. Proof is listed where available and may consist of screenshots or video recordings.
 
