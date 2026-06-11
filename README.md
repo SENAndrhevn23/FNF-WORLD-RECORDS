@@ -86,21 +86,22 @@ A community-maintained archive documenting some of the biggest, smallest, longes
 
 The following records document the highest known memory (RAM) usage achieved while running Friday Night Funkin' mods, charts, or engine stress tests.
 
-| Rank |   RAM Usage  | Holder        | Proof                 |
-| :--: | :----------: | ------------- | --------------------- |
-| 🥇 1 | **282.7 GB** | **Haxepixel** | 📷 Picture            |
-| 🥈 2 | **154.2 GB** | **RTS.EXEX**  | 📷 Picture            |
-| 🥉 3 | **81.82 GB** | **HRK.EXEX**  | 🎥 Video + 📷 Picture |
-|   4  | **77.78 GB** | **Haxepixel** | 🎥 Video              |
-|   5  | **59.98 GB** | **Haxepixel** | 🎥 Video              |
-|   6  | **52.02 GB** | **WTDNB**     | 🎥 Video              |
-|   7  | **50.19 GB** | **RTS.EXEX**  | 🎥 Video              |
-|   8  | **48.53 GB** | **Lost_AM**   | 🎥 Video              |
-|   9  | **46.25 GB** | **Haxepixel** | 🎥 Video              |
-|  10  | **39.70 GB** | **AndreNicholasJr**       | 📷 Picture            |
+| Rank | RAM Usage | Holder | Proof | Status |
+|:---:|:---------:|---------|--------|---------|
+| 🥇 1 | **282.7 GB** | **Haxepixel** | 📷 Picture | ✅ Official |
+| 🥈 2 | **154.2 GB** | **RTS.EXEX** | 📷 Picture | ✅ Official |
+| ⚠️ | **126.15 GB** | **Lost_AM** | 🎥 Video | ❌ Excluded (Memory Leak) |
+| 🥉 3 | **81.82 GB** | **HRK.EXEX** | 🎥 Video + 📷 Picture | ✅ Official |
+| 4 | **77.78 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
+| 5 | **59.98 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
+| 6 | **52.02 GB** | **WTDNB** | 🎥 Video | ✅ Official |
+| 7 | **50.19 GB** | **RTS.EXEX** | 🎥 Video | ✅ Official |
+| 8 | **48.53 GB** | **Lost_AM** | 🎥 Video | ✅ Official |
+| 9 | **46.25 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
+| 10 | **39.70 GB** | **ANJ** | 📷 Picture | ✅ Official |
 
 > [!NOTE]
-> A later build of **Lost_AM** reportedly reached **126.15 GB** of RAM usage. However, this result is **not counted** in the rankings because it was caused by a memory leak bug rather than intended engine or chart behavior.
+> **Lost_AM** later reached **126.15 GB** of RAM usage. This result is documented for historical purposes but is **not included in the official rankings**, as it was caused by a memory leak bug rather than intended engine or chart behavior.
 
 ---
 
