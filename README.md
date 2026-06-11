@@ -11,6 +11,7 @@ A community-maintained archive documenting some of the biggest, smallest, longes
 - Speed & Charting Records
 - Character Records
 - Miscellaneous Records
+- Highest RAM Usage Record
 - Missing Achievements
 - Contributing
 
@@ -44,7 +45,9 @@ A community-maintained archive documenting some of the biggest, smallest, longes
 |---------|---------|-------|
 | Lowest BPM | Vs. Osan – Palm | 25 BPM |
 | Highest BPM | Friday Night Incident – Evacuate | 250 BPM |
-| Most Notes on a Chart | Nullifier (Unnerf-Annihilated) | **2,423,028,494 notes** |
+| Most Notes on a Chart | Nullifier (Unnerf-Annihilated) | 2,423,028,494 notes |
+| Most Notes in a Single JSON File | IPHATHI YENGONO Chart | 201,523,388 notes |
+| JSON File Size | IPHATHI YENGONO Chart | 1.99 GB |
 | Most Notes in a Playable Song | FNF: Vs Eyes – MUZIDZIPHA TSOPANO | 5,910,528 notes |
 | Fastest Scroll Speed | IPHATHI YENGONO Chart | 500,000 |
 | Largest JSON File | IPHATHI YENGONO Chart | ~111.9 GB |
@@ -74,9 +77,13 @@ A community-maintained archive documenting some of the biggest, smallest, longes
 | Longest Confirmed Mod Lifespan | Hololive Funkin' |
 
 ---
-## 🖥️ Highest RAM Usage Record
+
+# 🖥️ Highest RAM Usage Record
 
 The following records document the highest known memory (RAM) usage achieved while running Friday Night Funkin' mods, charts, or engine stress tests.
+
+> [!NOTE]
+> Lost_AM reached 126.15 GB in a later update, but that result is excluded from the ranking here because it was caused by a memory leak bug.
 
 | Rank | RAM Usage | Holder | Proof |
 |:---:|:---------:|---------|--------|
@@ -89,9 +96,7 @@ The following records document the highest known memory (RAM) usage achieved whi
 | 7 | **50.19 GB** | **RTS.EXEX** | 🎥 Video |
 | 8 | **48.53 GB** | **Lost_AM** | 🎥 Video |
 | 9 | **46.25 GB** | **Haxepixel** | 🎥 Video |
-| 10 | **39.70 GB** | **AndreNicholasJr** | 📷 Picture |
-
-> **Note:** These values are community-submitted records and are intended to document the limits of FNF engines and chart stress tests. Proof is listed where available and may consist of screenshots or video recordings.
+| 10 | **39.70 GB** | **ANJ** | 📷 Picture |
 
 ---
 
@@ -100,7 +105,6 @@ The following records document the highest known memory (RAM) usage achieved whi
 The following records currently have no confirmed holder:
 
 - Lowest memory usage
-- Highest memory usage
 - Highest audio resolution
 - Largest number of files
 - Lowest number of files
