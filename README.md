@@ -53,6 +53,7 @@ A community-maintained archive documenting some of the biggest, smallest, longes
 | Fastest Scroll Speed             | IPHATHI YENGONO Chart                 | **500,000 scroll speed** |
 | Largest JSON File                | IPHATHI YENGONO Chart                 | **~111.9 GB**            |
 | Most Notes Per Second            | Traumatism but the spam was amplified | **137,205,201 NPS**      |
+| Most Compressed Spam (INF Notes) | slidetification 20 (compressed spam)  | **INF Notes** | Uses infinitely compressed note data instead of a finite NPS value. |
 
 > **Note:**
 > "Most Notes in a Single JSON File" refers to the largest amount of notes stored inside one `.json` chart file, while "Largest JSON File" refers to the raw file size on disk.
