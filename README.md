@@ -99,8 +99,6 @@ The following records document the highest known memory (RAM) usage achieved whi
 | 8 | **50.19 GB** | **RTS.EXEX** | 🎥 Video | ✅ Official |
 | 9 | **48.53 GB** | **Lost_AM** | 🎥 Video | ✅ Official |
 | 10 | **46.25 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
-| 11 | **39.70 GB** | **AndreNicholasJr** | 📷 Picture | ✅ Official |
-
 
 ---
 
