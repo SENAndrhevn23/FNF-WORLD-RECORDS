@@ -89,20 +89,18 @@ The following records document the highest known memory (RAM) usage achieved whi
 
 | Rank | RAM Usage | Holder | Proof | Status |
 |:---:|:---------:|---------|--------|---------|
-| 🥇 1 | **282.7 GB** | **Haxepixel** | 📷 Picture | ✅ Official |
-| 🥈 2 | **154.2 GB** | **RTS.EXEX** | 📷 Picture | ✅ Official |
-| ⚠️ | **126.15 GB** | **Lost_AM** | 🎥 Video | ❌ Excluded (Memory Leak) |
-| 🥉 3 | **81.82 GB** | **HRK.EXEX** | 🎥 Video + 📷 Picture | ✅ Official |
-| 4 | **77.78 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
-| 5 | **59.98 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
-| 6 | **52.02 GB** | **WTDNB** | 🎥 Video | ✅ Official |
-| 7 | **50.19 GB** | **RTS.EXEX** | 🎥 Video | ✅ Official |
-| 8 | **48.53 GB** | **Lost_AM** | 🎥 Video | ✅ Official |
-| 9 | **46.25 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
-| 10 | **39.70 GB** | **AndreNicholasJr** | 📷 Picture | ✅ Official |
+| 🥇 1 | **564.67 GB** | **AndreNicholasJr** | 📷 Picture | ✅ Official |
+| 🥈 2 | **282.7 GB** | **Haxepixel** | 📷 Picture | ✅ Official |
+| 🥉 3 | **154.2 GB** | **RTS.EXEX** | 📷 Picture | ✅ Official |
+| 4 | **126.15 GB** | **Lost_AM** | 🎥 Video | ✅ Official |
+| 5 | **77.78 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
+| 6 | **59.98 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
+| 7 | **52.02 GB** | **WTDNB** | 🎥 Video | ✅ Official |
+| 8 | **50.19 GB** | **RTS.EXEX** | 🎥 Video | ✅ Official |
+| 9 | **48.53 GB** | **Lost_AM** | 🎥 Video | ✅ Official |
+| 10 | **46.25 GB** | **Haxepixel** | 🎥 Video | ✅ Official |
+| 11 | **39.70 GB** | **AndreNicholasJr** | 📷 Picture | ✅ Official |
 
-> [!NOTE]
-> **Lost_AM** later reached **126.15 GB** of RAM usage. This result is documented for historical purposes but is **not included in the official rankings**, as it was caused by a memory leak bug rather than intended engine or chart behavior.
 
 ---
 
